@@ -1,0 +1,11 @@
+
+path: /Users/hansjiang/Desktop/Momentum IAP 24-25/YOLOv11n_model/datasets/combined    # Root directory of the dataset
+train: "train/images"    # Train images (relative to 'path')
+val: "valid/images"      # Validation images (relative to 'path')
+
+# Classes
+names:
+  0: Tower
+  1: Insulator
+  2: Conductors
+  3: Tree

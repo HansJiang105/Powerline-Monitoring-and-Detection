@@ -1,0 +1,38 @@
+This project is developed based on various open source projects
+
+Model:yolo11_ultralytics
+{
+    author = {Glenn Jocher and Jing Qiu},
+    title = {Ultralytics YOLO11},
+    version = {11.0.0},
+    year = {2024},
+    url = {https://github.com/ultralytics/ultralytics},
+    orcid = {0000-0001-5950-6979, 0000-0002-7603-6750, 0000-0003-3783-7069},
+    license = {AGPL-3.0}
+}
+
+Datasets for Tower Insulator Conductors (TIC) Powerline:
+{
+    titl = {Aerial Inspection of High-Voltage Power Lines Using YOLOv8 Real-Time Object Detector}
+    authors = {Bellou, E.; Pisica, I.; Banitsas, K. }
+    journal = {Energies 2024, 17(11), 2535}
+    url = {https://doi.org/10.3390/en17112535}
+}
+
+Datasets for Tree:
+{
+    tree-decetion_dataset,
+    title = { Tree Decetion Dataset },
+    type = { Open Source Dataset },
+    author = { YOLOV5 },
+    howpublished = { \url{ https://universe.roboflow.com/yolov5-yt5e0/tree-decetion } },
+    url = { https://universe.roboflow.com/yolov5-yt5e0/tree-decetion },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2021 },
+    month = { oct },
+    note = { visited on 2025-01-28 },
+}
+
+NOTE: test_images were collected from Google Image from various sources,
+      and the main.py program was completed with the aid of ChatGPT 4o
